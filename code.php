@@ -1,4 +1,4 @@
 <?php
-$output = shell_exec('dir');
-echo "<pre>$output</pre>";
+<h1>mohit poc
+</h1>
 ?>
